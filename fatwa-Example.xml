@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema/tei_basic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="schema/tei_basic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="css/oxygen.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Title</title>
+      </titleStmt>
+      <publicationStmt>
+        <p>Publication Information</p>
+      </publicationStmt>
+      <sourceDesc>
+        <p>Information about the source</p>
+      </sourceDesc>
+    </fileDesc>
+  </teiHeader>
+  <text xml:lang="ar">
+      <body>
+        <p><seg>(سئل) فى <w>رجل</w> رقيق تزوج امرأة حرة الاصل وأتى منها بولد ثم بعد مدة كبر الولد
+          وتزوّج حرة الأصل أيضا واتى منها باولاد واستمرهو وأولاده منفردا مدة من السنين قبل موت ابيه
+          وبعده ومات سيد ابيه عن اولاده وماتت اولاده عن ذريتهم ومات ابوه ايضا من مدة تزيد على اربعين
+          سنة والآن أولاد أولاد سيد أبيه يدعون انه مملوك لهم وان اولاده كذلك مملوكون لهم فانكر
+          دعواهم فهل اذا كانت أمة حرة الاصل وأم أولاده كذلك يكون هو وأولاده احرارا ولو لم يكن ابوهم
+          عتيقا بل بقى فى الرق إلى ان مات على انه كان المسموع له من الناس ان اباه كان معتقا حين
+          تزوّجه بأمه فيكون هو وأولاده احرارا تبعا لامهم وليس لعصبة مولى ابيه ولاء عليه ولا على
+          اولاده</seg> ٢١ ربيع الثاني ١٢٨٢ (اجاب) الولد يتبع الام فى الرق والحرية فعلى فرض كون أبى
+        الولد المذكور رقيقا يكون هو حرا بالتبعية لامه الحرة وكذلك اولاده المستولدون من الحرة ومع
+        حرية الام بالاصالة لا يكون لمولى الاب ولاء على اولادها اذا لام اذا كانت حرة الاصل لا يكون
+        لاحد ولاء على اولادها كما هو مصرح به فى كتب المذهب واللّه تعالى اعلم </p>
+      </body>
+  </text>
+</TEI>
